@@ -7,6 +7,8 @@
  * places to add some flare.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
@@ -339,3 +341,5 @@
   border-image: linear-gradient(90.68deg, #b439df 0.26%, #e5337e 102.37%);
   border-image-slice: 1;
 }
+
+*, html, body, h1, h2, h3, h4, h5, h6, p { font-family: 'Inter', sans-serif; }
