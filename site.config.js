@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'Shubham-Kumar-Sharma-52755b1a9b65459fa0fad705e84390ad',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Shubham Kumar Sharma',
+  domain: 'shubhamkumarsharma.in',
+  author: 'Shubham Kumar Sharma',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'I am a big believer in data science and always play bullish for all the hidden things revealed by data.',
+  socialImageTitle: 'Shubham Kumar Sharma',
+  socialImageSubtitle: 'Data is beautiful 😍',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'shubhamtheds',
+  github: 'shubhamtheds',
+  linkedin: 'shubhamtheds',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
