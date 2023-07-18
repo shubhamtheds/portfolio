@@ -43,6 +43,10 @@ export default class MyDocument extends Document {
             <Main />
 
             <NextScript />
+            
+            <script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
+            <script src="https://mediafiles.botpress.cloud/105d9c4c-974e-4d3c-abad-c3fdc3e7c315/webchat/config.js" defer></script>
+            
           </body>
         </Html>
       </IconContext.Provider>
